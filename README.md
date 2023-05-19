@@ -1,6 +1,9 @@
 # Multimedia-Portfolio
 Portfolio for Multimedia 3610 class(includes projects and hw)
-https://niesse12.github.io/Multimedia-Portfolio/
+
+Projects:
+Cartoon- https://niesse12.github.io/Multimedia-Portfolio/
+Animation- https://niesse12.github.io/Multimedia-Portfolio/Animation/animation.html
 
 Labs:
-https://niesse12.github.io/Multimedia-Portfolio/Labs/fruit.html
+Frui- https://niesse12.github.io/Multimedia-Portfolio/Labs/fruit.html
