@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weight Conversion</title>
+  <style>
+    body {
+      background-image: url('https://www.ccjk.com/wp-content/uploads/2014/03/On-Word-Conversion-In-E-C-Translation-%E2%85%A1-1.jpg');
+      background-size: cover;
+    }
+  </style>
+</head>
+<body>
+  <h1>Weight Conversion</h1>
+  <form id="conversionForm">
+    <label for="weight">Enter weight:</label>
+    <input type="number" id="weight" min="0" step="any" required>
+    <br><br>
+    <label for="conversionType">Conversion type:</label>
+    <input type="radio" id="poundsToKilograms" name="conversionType" value="poundsToKilograms" checked>
+    <label for="poundsToKilograms">Pounds to Kilograms</label>
+    <input type="radio" id="kilogramsToPounds" name="conversionType" value="kilogramsToPounds">
+    <label for="kilogramsToPounds">Kilograms to Pounds</label>
+    <br><br>
+    <button type="button" onclick="convert()">Convert</button>
+    <button type="reset">Reset</button>
+  </form>
+  <br>
+  <div id="result"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
