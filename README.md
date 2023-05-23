@@ -12,3 +12,5 @@ Form- https://niesse12.github.io/Multimedia-Portfolio/Form/index.html
 Labs:
 
 Fruit- https://niesse12.github.io/Multimedia-Portfolio/Labs/fruit.html
+
+Sound- https://niesse12.github.io/Multimedia-Portfolio/Labs/Sounds/index.html
