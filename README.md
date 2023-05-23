@@ -9,6 +9,8 @@ Animation- https://niesse12.github.io/Multimedia-Portfolio/Animation/animation.h
 
 Form- https://niesse12.github.io/Multimedia-Portfolio/Form/index.html
 
+Data Visualization- https://niesse12.github.io/Multimedia-Portfolio/Charts/ricky.html
+
 Labs:
 
 Fruit- https://niesse12.github.io/Multimedia-Portfolio/Labs/fruit.html
