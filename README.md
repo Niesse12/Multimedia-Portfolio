@@ -19,3 +19,5 @@ Fruit- https://niesse12.github.io/Multimedia-Portfolio/Labs/fruit.html
 Sound- https://niesse12.github.io/Multimedia-Portfolio/Labs/Sounds/index.html
 
 Bootstrap- https://niesse12.github.io/Multimedia-Portfolio/Labs/Bootstrap/ricky-bootstrap.html
+
+Resume- https://niesse12.github.io/Multimedia-Portfolio/Labs/Resume/index.html#experience
